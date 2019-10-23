@@ -37,7 +37,7 @@ This repository is to answer the first backend test for the backend developer re
 
 
 ## Maze
-<p align='center'>
+<p>
   <span>
     <p>Maze1</p> 
       <image width="200" src="./image/maze/maze1.png" />
