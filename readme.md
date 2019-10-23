@@ -40,15 +40,16 @@ This repository is to answer the first backend test for the backend developer re
 <p align='center'>
   <span>
     <p>Maze1</p> 
-      <image width="300" src="./image/maze/maze1.png" />
+      <image width="200" src="./image/maze/maze1.png" />
     <p>Maze2</p> 
-      <image width="300" src="./image/maze/maze2.png"" />
+      <image width="200" src="./image/maze/maze2.png"" />
     <p>Maze3</p> 
-      <image width="300" src="./image/maze/maze3.png"" />
+      <image width="200" src="./image/maze/maze3.png"" />
     <p>Maze4</p> 
-      <image width="300" src="./image/maze/maze4.png"" /> 
+      <image width="200" src="./image/maze/maze4.png"" /> 
   </span>
 </p>
+
 ## Result
 
 ## Contributor
