@@ -54,13 +54,13 @@ This repository is to answer the first backend test for the backend developer re
     <p>Maze1</p> 
       <image width="500" src="./image/result/resultmaze1.PNG" />
     <p>Maze2</p> 
-      <image width="500" src="./image/result/resultmaze2.png" />
+      <image width="500" src="./image/result/resultmaze2.PNG" />
     <p>Maze3</p> 
-      <image width="500" src="./image/result/resultmaze3.png" />
+      <image width="500" src="./image/result/resultmaze3.PNG" />
     <p>Maze4</p> 
-      <image width="500" src="./image/result/resultmaze4.png" /> 
+      <image width="500" src="./image/result/resultmaze4.PNG" /> 
       <p>if the input not valid </p> 
-      <image width="500" src="./image/result/input.png" /> 
+      <image width="500" src="./image/result/input.PNG" /> 
   </span>
 
 ## Contributor
