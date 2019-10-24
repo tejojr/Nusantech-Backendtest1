@@ -31,8 +31,8 @@ const drawMaze4 = s => {
     console.log(result)
   }
 }
-drawMaze4(-1)
+// drawMaze4(-1)
 // // drawMaze4(0)
 // // drawMaze4(4)
 // // drawMaze4(5)
-// drawMaze4(15)
+drawMaze4(15)
