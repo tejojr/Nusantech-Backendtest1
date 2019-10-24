@@ -1,5 +1,5 @@
 const drawMaze1 = s => {
-  if ((s + 1) % 4 != 0) {
+  if ((s + 1) % 4 != 0 || s <= 0) {
     console.log(
       "Input must positive integer and can be expressed in 4n - 1, where n is a positive integer"
     )
@@ -23,4 +23,8 @@ const drawMaze1 = s => {
     console.log(result)
   }
 }
+// drawMaze1(-1)
+// drawMaze1(0)
+// drawMaze1(4)
+// drawMaze1(5)
 drawMaze1(15)

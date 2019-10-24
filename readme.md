@@ -34,7 +34,7 @@ This repository is to answer the first backend test for the backend developer re
 
 - Clone this repository https://github.com/tejojr/Nusantech-Backendtest1.git
 - Open CMD or Terminal and enter to the app directory
-- To run maze 1, type in cmd `node drawMaze1` then press `enter`
+- To run maze , type in cmd `node MazeName` then press `enter`. Example = `node drawMaze1`
 
 
 ## Maze
@@ -54,11 +54,13 @@ This repository is to answer the first backend test for the backend developer re
     <p>Maze1</p> 
       <image width="500" src="./image/result/resultmaze1.PNG" />
     <p>Maze2</p> 
-      <image width="200" src="./image/maze/maze2.png" />
+      <image width="500" src="./image/result/resultmaze2.png" />
     <p>Maze3</p> 
-      <image width="200" src="./image/maze/maze3.png" />
+      <image width="500" src="./image/result/resultmaze3.png" />
     <p>Maze4</p> 
-      <image width="200" src="./image/maze/maze4.png" /> 
+      <image width="500" src="./image/result/resultmaze4.png" /> 
+      <p>if the input not valid </p> 
+      <image width="500" src="./image/result/input.png" /> 
   </span>
 
 ## Contributor
